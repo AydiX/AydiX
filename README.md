@@ -5,7 +5,7 @@
 
 # `Abdullah Aydin Lüleci`
 
-### 🛡️ Cyber Security Student · Penetration Tester · Werkstudent @ Siemens Healthineers
+### 🛡️ Cyber Security Student · Penetration Tester/Red Team · Intern @ Siemens Healthineers
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=550&lines=Securing+systems%2C+one+exploit+at+a+time;TH+W%C3%BCrzburg-Schweinfurt+%7C+Informationssicherheit;Pentesting+%E2%80%A2+ISMS+%E2%80%A2+DevSecOps;Hackfestival+2024+Winner" alt="Typing SVG" />
 
